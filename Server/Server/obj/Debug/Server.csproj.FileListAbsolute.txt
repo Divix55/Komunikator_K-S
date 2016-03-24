@@ -1,0 +1,6 @@
+c:\users\divix\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.exe.config
+c:\users\divix\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\divix\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\divix\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\divix\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.exe
+c:\users\divix\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.pdb
